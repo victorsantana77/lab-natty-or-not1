@@ -1,9 +1,9 @@
 <div align="center">
+    <img src="./assets/eu.JPEG" width="200" />
+    <img src="./assets/clone.JPEG width="200" />
+    <img src="./assets/funko.JPEG" width="200" />
     <img src="./assets/fakenatty.JPEG" width="200" />
     <img src="./assets/fakenatty2.JPEG" width="200" />
-    <img src="./assets/funko.JPEG" width="200" />
-    <img src="./assets/eu.JPEG" width="200" />
-    <img src="./assets/clone.JPEG" width="200" />
     <img src="./assets/rede.JPEG" width="200" />
     <img src="./assets/rede2.JPEG" width="200" />
 </div>
