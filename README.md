@@ -20,32 +20,30 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# São pPaulo Futebol Clube e sua História ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Quero contar um pouco sobre este magnífico clube que é o São Paulo F.C
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Usei apenas a Gamma app
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Pedi para que ela me criasse uma apresentação sobre o clube, apesar de vim com alguns erros eu fiz algumas modificações e
+alguns complementos para que chegasse ao meu resultado.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+https://gamma.app/docs/Historia-do-Sao-Paulo-Futebol-Clube-trv9zyp6ac0lbrh
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+É bem interativo a forma que as coisas vão acontecendo e quando você começa a entender tudo faz mais
+sentido.
 
-### Exemplos e Insigths
 
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
 
 ## Links Interessantes
 
 [Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
 
 ![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+[Historia-do-Sao-Paulo-Futebol-Clube.pdf](https://github.com/EuGabis/lab-natty-or-not/files/15285149/Historia-do-Sao-Paulo-Futebol-Clube.pdf)
