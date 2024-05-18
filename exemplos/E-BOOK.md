@@ -7,7 +7,7 @@ Este e-book de 5 páginas explora o impacto revolucionário das IAs Generativas 
 - IA Generativa **[ChatGPT](https://chat.openai.com)** para roteirização;
 - IA Generativa **[Leonardo AI](https://leonardo.ai)** para criar a arte visual do e-book;
 - Ferramenta **Libre Office** para edição.
-
+- 
 ## 🧐 Processo de Criação
 Utilizei o "ChatGPT" para revisar minha pesquisa sobre IAs Generativas, estruturar o conteúdo e refinar minhas ideias. Por outro lado, o "Leonardo AI" foi usado para gerar imagens exclusivas para o nosso e-book. Para concluir, a montagem final foi feita no Libre Office, por ser uma ferramenta open-source para edição de texto.
 
