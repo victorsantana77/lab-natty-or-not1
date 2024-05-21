@@ -24,9 +24,7 @@ Descreva como você criou o conteúdo
 
 ## 🚀 Resultados
 <br>
-  <audio controls>
-    <source src = "Projeto-RadioLocutor-JanainaAleixo.mp3" type="audio/mpeg">
-  </audio>
+  [Ouça o resultado] (Projeto-RadioLocutor-JanainaAleixo.mp3)
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
