@@ -21,6 +21,8 @@ Cara, vocês precisam ver o novo personagem que a Miyu desenhou para o Demon Sla
 
 O nome dele é Takeshi e ele é um oni muito brabo. A Miyu caprichou nos detalhes, desenhando aqueles olhos vermelhos intensos cheios de ira. Enquanto ela desenhava, dava para sentir que o Takeshi não era só um personagem no papel. Era como se ele tivesse surgido das profundezas mais sombrias, emanando uma aura bem sinistrada. Ficou tão realista que chega a dar um clima de "será que a Miyu não usou alguma Inteligência Artificial para criá-lo?"
 
+![Miyu](images\Miyu.jpeg)
+
 Quando ela terminou, deve ter ficado aquela dúvida na cabeça dela: "Será que desenhei isso com meu próprio talento ou uma IA me deu uma mãozinha?" Hoje em dia está difícil distinguir, né? De qualquer forma, o desenho ficou insano! A Miyu é demais.
 
 ## 💭 Reflexão (Opcional)
