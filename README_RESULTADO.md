@@ -28,7 +28,7 @@ O nome dele é Takeshi e ele é um oni muito brabo. A Miyu caprichou nos detalhe
 
 Quando ela terminou, deve ter ficado aquela dúvida na cabeça dela: "Será que desenhei isso com meu próprio talento ou uma IA me deu uma mãozinha?" Hoje em dia está difícil distinguir, né? De qualquer forma, o desenho ficou insano! A Miyu é demais.
 
-## 💭 Reflexão (Opcional)
+## 💭 Reflexão 
 Este projeto desafia nossas percepções ao questionar as fronteiras entre a arte humana e a gerada por Inteligência Artificial. Ao explorar o universo de Demon Slayer, somos convidados a identificar as sutis nuances que distinguem as criações genuinamente humanas daquelas produzidas por algoritmos.
 
 Mais do que um exercício de identificação, esta jornada nos leva a refletir sobre a própria natureza da criatividade e do processo artístico. O que define a "autenticidade" de uma obra? A integração entre humanos e IA pode abrir novas fronteiras criativas ou ameaçar a expressão humana?
