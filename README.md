@@ -30,7 +30,8 @@ Suas habilidades de percepção e discernimento serão levadas ao extremo neste 
 Mergulhe neste mundo onde a linha entre o humano e a IA é tênue. O "Fake _Natty or Not?" promete ser uma jornada desafiadora e envolvente que você não vai querer perder. Prepare seus olhos afiados e mente analítica - o futuro da arte está aqui!
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Copilot Designer - gerar as imagens
+Claude AI - gerar texto
 
 ## 🧐 Processo de Criação
 Descreva como você criou o conteúdo
