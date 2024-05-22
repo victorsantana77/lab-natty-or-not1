@@ -17,7 +17,7 @@ Descreva como você criou o conteúdo
 ## 🚀 Resultados
 Cara, vocês precisam ver o novo personagem que a Miyu desenhou para o Demon Slayer! Ela é uma artista de mangá mega talentosa que ama esse universo.
 
-![Takeshi](C:\Users\Lucas\Documents\Github\lab-natty-or-not\imagem\Takeshi.jpeg)
+![Takeshi](images\Takeshi.jpeg)
 
 O nome dele é Takeshi e ele é um oni muito brabo. A Miyu caprichou nos detalhes, desenhando aqueles olhos vermelhos intensos cheios de ira. Enquanto ela desenhava, dava para sentir que o Takeshi não era só um personagem no papel. Era como se ele tivesse surgido das profundezas mais sombrias, emanando uma aura bem sinistrada. Ficou tão realista que chega a dar um clima de "será que a Miyu não usou alguma Inteligência Artificial para criá-lo?"
 
