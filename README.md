@@ -1,48 +1,35 @@
 # Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
 
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Um par de pandas na floresta
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Criar imagens de pandas na floresta como se fosse fotografias feitas por um fotojornalista.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Plataforma Leonardo.ai para gerar imagens determinadas por instruções do usuário informadas pelo prompt.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Escrever um prompt para gerar a imagem de pandas na floresta
+### Prompt para gerar a imagem
+Deixe-se encantar por esta imagem fotorrealista de dois pandas brincando em meio à beleza da natureza, com detalhes impressionantes que o transportarão para a floresta. Imagem como se fosse uma fotografia  de jornalista da uma revista da National Geographio
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+As imagens geradas estão na pasta imagens 
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+![Imagem de dois pandas](imagens\Default_Deixese_encantar_por_esta_imagem_fotorrealista_de_dois_0.jpg)
+*PANDA NA FLORESTA*
 
-### Exemplos e Insigths
+![Imagem de dois pandas](imagens\Default_Deixese_encantar_por_esta_imagem_fotorrealista_de_dois_1.jpg)
+*PANDA NA FLORESTA*
 
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
+![Imagem de dois pandas](imagens\Default_Deixese_encantar_por_esta_imagem_fotorrealista_de_dois_2.jpg)
+*PANDA NA FLORESTA*
+
+![Imagem de dois pandas](imagens\Default_Deixese_encantar_por_esta_imagem_fotorrealista_de_dois_3.jpg)
+*PANDA NA FLORESTA*
+
 
 ## Links Interessantes
 
