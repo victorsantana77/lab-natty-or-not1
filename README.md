@@ -21,22 +21,23 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 
 ```markdown
 # Título do Projeto Extremamente Aesthetic ;)
+Youtuber Mensagem a fã
 
 ## 📒 Descrição
 Breve descrição do seu projeto
+Com o uso de Inteligencia Artificial foi feito um curto video, usando a imagem de um youtuber famoso para mandar uma mensagem a um fã
 
 ## 🤖 Tecnologias Utilizadas
 Liste as IAs Generativas e outras ferramentas usadas
+Gemini, D-ID
 
 ## 🧐 Processo de Criação
 Descreva como você criou o conteúdo
+A principio foram feitas tentativas de criação de um avatar virtual em outros sites como por exemplo Veed.io, Vidnoz e até mesmo o capcut, porém, com esses sites não consegui chegar ao meu objetivo de criar um video com a imagem de um youtuber famoso. A ideia inicial era fazer um video estilo aos de youtubers anunciando um novo jogo online, com o uso da IA generativa Gemini fui capaz de criar um roteiro para a ideia que foi sugerida.
 
 ## 🚀 Resultados
 Apresente os resultados do seu projeto
-
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+O resultado foi um video curto do famoso youtuber mandando uma mensagem a um fã mas sem o uso de sua voz e sim de uma voz virtual disponibilizada pelo site D-ID
 
 ### Exemplos e Insigths
 
