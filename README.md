@@ -1,51 +1,18 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Apresentação de app para aprender idiomas - LingoFun
+[Aplicativo-LingoFun-Aprenda-Idiomas-de-Forma-Ludica-e-Envolvente.pdf](https://github.com/RafaelSdeS/lab-natty-or-not/files/15461584/Aplicativo-LingoFun-Aprenda-Idiomas-de-Forma-Ludica-e-Envolvente.pdf)
+<br/>
+[Landing page](https://aprenda-facil-1cwumdq.gamma.site/)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+O LingoFun é um aplicativo inovador que reinventa a maneira como aprendemos novos idiomas. Através de uma abordagem interativa e gamificada, o LingoFun combina educação e entretenimento, criando uma experiência de aprendizado envolvente e eficaz para usuários de todas as idades.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+[ChatGPT](https://chatgpt.com) para inventar ideia e criar recursos detalahando o app.
+<br/>
+[Gamma](https://gamma.app/) para montar o pdf e landing page.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Foi pedido ao ChatGPT ideias para a criação de conteúdo, aplicativos, sites e entre outros que poderiam ser criados usando IAs. Dentre estas, estava a ideia de um app de idiomas. Foi pedido ao ChatGPT para criar um nome e descrição detalahda do app. Após isso, o nome e a descrição do app foram dados como input no Gamma para criar uma landing page e apresentação em pdf para o app.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
-
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+Foram criados um site e documento profissionais em poucos segundos e de forma fácil. Foi surpreendente o quão rápido tudo foi realizado, reduzindo o tempo de trabalho drasticamente.
