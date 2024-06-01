@@ -6,4 +6,4 @@ Muitos estudos demonstraram que a natureza tem a capacidade de melhorar a memór
 ## 🧐 Processo de Criação
 No app gamma, foi solicitado estudos sobre como a natureza afeta o cérebro humano. Em seguida, foi escolhido os melhores insights para uma apresentação em pdf.
 ## 🚀 Resultados
-[Link](file:///C:/Users/usuario/Downloads/A-Conexao-entre-Natureza-e-Cerebro.pdf).
+https://gamma.app/docs/A-Conexao-entre-Natureza-e-Cerebro-qbvegx70shgq7ay?mode=doc
