@@ -20,19 +20,23 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Novo PodCast da vez 
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Com uso da IA foi criado um programa de PodCast tanto a parte de roteiro, fala e capa por IA's
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Chat GTP 4 da Open IA
+elevenlabs.io para a Voz
+imagine.art para a capa
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Usei um prompt simples no GTP de "Por favor, Crie um roteiro de um podcast solo onde o narrador está descrevendo sobre o uso de tecnologia IA no mundo atual"
+Com o resultado solicitei para deixa apenas o texto puro sem os detalhes de audio e coloquei o texto no Elevenlab, para a imagem utilizei o mesmo prompt do GPT
 
 ## 🚀 Resultados
 Apresente os resultados do seu projeto
+
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
