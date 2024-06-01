@@ -19,5 +19,4 @@ Este projeto tem como objetivo pesquisar o potencial das IAs Generativas na cria
 - Recebemos feedback positivo sobre a originalidade e beleza das imagens geradas pela IA.
 
 ## 💭 Reflexão (Opcional)
-Claro, aqui está um exemplo de como preencher o template com um projeto fictício:
-Projeto: Geração de Arte Abstrata com IA
+Criar arte abstrata com IA apresentou alguns desafios interessantes. Embora a IA tenha demonstrado habilidade para gerar imagens visualmente interessantes, ainda é necessário um olhar humano para selecionar e refinar as melhores criações. Além disso, o processo de treinamento do modelo exigiu uma quantidade significativa de recursos computacionais. 
