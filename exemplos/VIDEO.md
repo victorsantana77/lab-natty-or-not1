@@ -14,7 +14,7 @@ Usei o "Libre Office" para escrever e revisar meu curriculo. O "D-ID" foi essenc
 ## 🚀 Resultados
 O vídeo é uma apresentação criada com IA Generativa falando um pouco sobre minhas experiências como piloto de Avião.
 
-[[LINK PARA O VÍDEO AQUI](https://studio.d-id.com/agents/share?id=agt_44MBZK9p&key=WVhWMGFEQjhOalkyTXpKbFltWTFNekk1TlRSaU5XUTJOR05tTVdNM09sUjFSV0puVDFaRk4xTm1ZVkpaYlZOamJWZERaQT09)]()
+[LINK PARA O VÍDEO AQUI](https://studio.d-id.com/agents/share?id=agt_44MBZK9p&key=WVhWMGFEQjhOalkyTXpKbFltWTFNekk1TlRSaU5XUTJOR05tTVdNM09sUjFSV0puVDFaRk4xTm1ZVkpaYlZOamJWZERaQT09)
 
 ## 💭 Reflexão
 Este projeto foi uma experiência incrível em contar histórias visuais, utilizando as IAs Generativas para criar uma narrativa poderosa e cativante.
