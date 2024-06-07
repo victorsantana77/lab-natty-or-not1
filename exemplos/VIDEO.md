@@ -1,7 +1,7 @@
-# Vídeo: Um Minuto no Futuro das IAs Generativas 🎥
+# Vídeo: Aqui falo um pouco sobre mim 🎥
 
 ## 📒 Descrição
-Este vídeo de 1 minuto apresenta uma visão rápida e envolvente do potencial e da aplicação das IAs Generativas na vida cotidiana.
+Este vídeo é meu Curriculo.
 
 ## 🤖 Tecnologias Utilizadas
 - IA Generativa **[ChatGPT](https://chat.openai.com)** para roteirização e revisão;
@@ -9,12 +9,12 @@ Este vídeo de 1 minuto apresenta uma visão rápida e envolvente do potencial e
 - Software **[Adobe Premiere](https://www.adobe.com/products/premiere.html)** para edição de vídeo.
 
 ## 🧐 Processo de Criação
-Usei o "ChatGPT" para escrever e revisar o roteiro do vídeo. O "D-ID" foi essencial para criar um avatar virtual e voz sintetizada, trazendo uma dimensão futurística ao vídeo. A montagem e edição foram realizadas no Adobe Premiere para garantir qualidade profissional.
+Usei o "Libre Office" para escrever e revisar meu curriculo. O "D-ID" foi essencial para criar um avatar virtual e voz sintetizada, trazendo uma dimensão futurística ao vídeo. 
 
 ## 🚀 Resultados
-O vídeo é uma cápsula do tempo que leva o espectador a uma jornada rápida pelo mundo das IAs Generativas, destacando seu potencial transformador.
+O vídeo é uma apresentação criada com IA Generativa falando um pouco sobre minhas experiências como piloto de Avião.
 
-[LINK PARA O VÍDEO AQUI]()
+[[LINK PARA O VÍDEO AQUI](https://studio.d-id.com/agents/share?id=agt_44MBZK9p&key=WVhWMGFEQjhOalkyTXpKbFltWTFNekk1TlRSaU5XUTJOR05tTVdNM09sUjFSV0puVDFaRk4xTm1ZVkpaYlZOamJWZERaQT09)]()
 
 ## 💭 Reflexão
 Este projeto foi uma experiência incrível em contar histórias visuais, utilizando as IAs Generativas para criar uma narrativa poderosa e cativante.
