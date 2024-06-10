@@ -34,6 +34,6 @@ A criação de conteúdos que pareçam naturais usando IAs generativas é um des
 ## Exemplos e Insights
 
 - **E-BOOK**: "Explorando as Fronteiras das IAs Generativas"
-- **Podcast**: "Tendências em IA: Conversas com um Avatar"
-- **Vídeo (Avatar Virtual)**: [Link para o vídeo no YouTube]
-- **Mapa de Tendências: IAs Generativas**: [Link para o mapa interativo]
+- **Podcast**: "Tendências em IA: Conversas com um Avatar" [Aqui](https://github.com/digitalinnovationone/lab-natty-or-not/tree/main/exemplos)
+- **Vídeo (Avatar Virtual)**: [Link para o vídeo no YouTube](https://github.com/digitalinnovationone/lab-natty-or-not/tree/main/exemplos)
+- **Mapa de Tendências: IAs Generativas**: [Link para o mapa interativo](https://github.com/digitalinnovationone/lab-natty-or-not/tree/main/exemplos)
