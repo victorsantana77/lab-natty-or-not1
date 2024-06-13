@@ -22,6 +22,6 @@ O resultado ficou bem legal. Você pode conferir o vídeo aqui <https://www.yout
 
 ---
 
-## 💭 Reflexão (Opcional)
+## 💭 Reflexão
 A experiência foi muito legal e mostra como as IAs estão cada dia mais incríveis.
 ```
