@@ -18,7 +18,7 @@ Inicialmente usei o elevanlabs para criar o áudio e posteriormente usei uma ima
 ---
 
 ## 🚀 Resultados
-O resultado ficou bem legal. Você pode conferir o vídeo aqui [Assistir](/output/gigi-video2.mp4)
+O resultado ficou bem legal. Você pode conferir o vídeo aqui <https://www.youtube.com/shorts/u0x0Q8TcWoM>.
 
 ---
 
