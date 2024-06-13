@@ -1,7 +1,7 @@
 # Reconhecimento Facial e Biometria: Uma Análise Detalhada 🚨
 
 <p align="center">
-<img src="exemplos/E-BOOK.gif">
+<img src="exemplos/Desktop2024.06.13-18.56.58.04-ezgif.com-video-to-gif-converter.gif">
 
 ## 📒 Descrição
 Este e-book de 8 páginas explora desde de o que são os processos de reconhecimento facial e biometria utilizando IA, até como esses processos muitas vezes podem ter uma taxa de erros na discriminação de um falso positivo/negativo.
