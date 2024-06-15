@@ -17,4 +17,3 @@ O projeto mostra uma animação, baseando-se em palavras chave de texto para ima
 
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
