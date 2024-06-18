@@ -15,6 +15,7 @@ O projeto mostra uma animação, baseando-se em palavras chave de texto para ima
 
 ## 🚀 Resultados
 O resultado foi satisfatório tentei descrever o mais detalhado possível até gerar a cena, tentei várias vezes e saiu melhor que o esperado, e algumas cena não da pra entender por causa do nível de complexidade precisaria de legenda mas ficou excelente.
+
 https://github.com/Kerles/lab-natty-or-not/assets/29048487/e3bc973a-4180-4310-8e5f-04770f54dab4
 
 
