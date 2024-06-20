@@ -1,4 +1,4 @@
-# Título do Projeto Extremamente Aesthetic ;)
+# Crie imagens para propagandas ou outdoors com Leonard AI
 
 ## 📒 Descrição
 Transforme suas campanhas publicitárias criando imagens de alta qualidade para propagandas e outdoors com Leonard IA. Utilize a tecnologia de ponta para destacar sua marca e atrair a atenção do seu público-alvo.
