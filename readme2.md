@@ -1,16 +1,16 @@
 # Título do Projeto Extremamente Aesthetic ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Criar imagens para propagandas ou outdoors com a Leonard AI
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Leonard AI
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Criei imagens possíveis para serem usadas em propagadas de empresas colocando apenas suas marcars
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
