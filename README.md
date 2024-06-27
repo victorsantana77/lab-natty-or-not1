@@ -15,7 +15,7 @@ Artigo fantasioso explorando a capacidade de argumentação das IAs em um cenár
 - Com o texto pronto, usei o Leonardo AI para criar algumas ilustrações.
 
 ## 🚀 Resultados
-- Você pode ver o resultado no [aqui](./Article_dev_ducks.pdf)
+- Você pode ver o pdf [aqui](./Article_dev_ducks.pdf) ou o [readme](./article.md)
 
 - ![patosdev](./dev_ducks.jpg)
 - ![patodev](./real_dev_duck.jpg)
