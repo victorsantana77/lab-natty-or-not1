@@ -7,7 +7,7 @@ Artigo fantasioso explorando a capacidade de argumentação das IAs em um cenár
 ## 🤖 Tecnologias Utilizadas
 - IA Generatativa: Chat GPT
 - IA Generativa: Leonardo AI
-- 
+- Para editar o texto do artigo foi utilizado o Googles Docs.
 
 ## 🧐 Processo de Criação
 - Com um assunto em mente, pedi ao ChatGPT que criasse meu artigo.
