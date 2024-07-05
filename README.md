@@ -1,51 +1,23 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Se Familiarizando com IA (AestheticAI)🌌
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+O projeto AestheticAI utiliza tecnologias de IA generativa para criar imagens de paisagens urbanas que misturam elementos realistas com uma estética artística única.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+- StyleGAN2: Uma rede neural generativa usada para sintetizar imagens de alta qualidade que combinam diferentes estilos.
+- Python: Linguagem principal para desenvolvimento do projeto.
+- TensorFlow: Framework de deep learning usado para implementar o StyleGAN2.
+- Git e GitHub: Para controle de versão e hospedagem do código.
+- Ferramentas de pré-processamento de dados e manipulação de imagens.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+  ## 1 - Coleta de Dados: Utilização de bancos de imagens de cidades para treinar o modelo.
+  ## 2 - Treinamento do Modelo: Implementação do StyleGAN2 para aprender as características das imagens urbanas e gerar novas combinações estilísticas.
+  ## 3 - Ajuste de Parâmetros: Experimentação com hiperparâmetros para obter resultados estéticos desejados.
+  ## 4 - Geração de Imagens: Utilização do modelo treinado para criar novas imagens que combinam realismo com uma estética única.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+O projeto conseguiu gerar imagens que capturam a essência das paisagens urbanas, ao mesmo tempo em que introduzem elementos estilísticos interessantes. As imagens produzidas foram avaliadas quanto à sua qualidade visual e à capacidade de misturar realismo com criatividade. Exemplos de imagens geradas estão disponíveis no repositório do projeto.
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+## 💭 Reflexão
+Criar algo 'natty' (natural) com IA envolve desafios significativos, especialmente ao tentar equilibrar realismo e estética. A necessidade de treinar modelos com conjuntos de dados adequados e ajustar os parâmetros corretamente é crucial para alcançar resultados satisfatórios. Além disso, a interpretação humana da estética é um aspecto complexo que requer uma abordagem sensível e criativa.
