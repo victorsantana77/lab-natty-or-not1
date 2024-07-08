@@ -1,51 +1,20 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Roadmaps para todos os tipos de desenvolvedores
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Tive como principal a criação de uma pequena apresentação em documento sobre <b>os principais roadmaps para uma carreira de sucesso em Análise e Desenvolvimento de Software</b>
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
-
+Utilizei o [GammaApp](https://gamma.app/) para gerar visualmente a apresentação e o conteúdo.
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Após escolher o tema do projeto, fui especificar coisas como:
+1. Quantidade de texto, se queria pouco texto ou algo mais detalhado
+2. Temas visuais e cores da apresentação, optei por escolher cores mais vibrantes
+3. Estilo da apresentação, que optei por manter um estilo mais moderno.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Sobre o resultado, criei algo que pode ajudar quem se encontra em um lugar meio perdido no enorme mundo da tecnologia, mundo esse que exige tanto que às vezes nem sabemos por onde começar, o que estudar primeiro ou se deveríamos estar focando em outra coisa. Aqui é oferecido um caminho para ser trilhado e chegar ao sucesso nesta carreira!
+
+Aqui está o meu resultado - [Os principais roadmaps para uma carreira de sucesso em Análise e Desenvolvimento de Software]()
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+Sobre o que foi dito acima, realmente as exigências são altas, porém precisamos seguir um passo de cada vez, pois se tentarmos fazer tudo de uma vez, vamos acabar nos atropelando e não aprendendo nada verdadeiramente. O que tenho a dizer é, principalmente para quem está entrando na área, vamos com calma, respeite o ritmo da evolução própria, siga constante e você realizará grandes coisas.
