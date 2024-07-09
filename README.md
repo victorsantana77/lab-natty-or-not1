@@ -18,7 +18,7 @@ Foi criado um E-book com o tema: O Impacto Revolucionário das IAs Generativas n
 
 ## 🚀 Resultados
 Segue e-book obtido como resultado final.
-[O impacto da revolucionário das IAs Generativas no futuro dos profissionais de tecnologia](https://gamma.app/docs/O-Impacto-Revolucionario-das-IAs-Generativas-no-Nosso-Dia-a-Dia-e-oyr0aoh5ks0vx8q)
+[O impacto das IAs Generativas no futuro dos profissionais de tecnologia](https://gamma.app/docs/O-Impacto-das-IAs-Generativas-no-Futuro-dos-Profissionais-de-Tecn-oyr0aoh5ks0vx8q)
 
 ## 💭 Reflexão (Opcional)
 Foi desafiador pois, apesar de usar IAs para atender necessidades pontuais, este foi diferente. A necessidade de conectar os resutados e integrar de modo a obter um resultado que levaria horas ou dias para ser concluído, é algo que faz refletir.
