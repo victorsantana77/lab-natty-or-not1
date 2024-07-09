@@ -1,9 +1,9 @@
 # Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
 
-# O impacto da revolucionário das IAs Generativas no futuro dos profissionais de tecnologia
+# O impacto das IAs Generativas no futuro dos profissionais de tecnologia
 
 ## 📒 Descrição
-Foi criado um E-book com o tema: O Impacto Revolucionário das IAs Generativas no Nosso Dia a Dia e o Futuro dos Profissionais de Tecnologia.
+Foi criado um E-book com o tema: O Impacto das IAs Generativas no Futuro dos Profissionais de Tecnologia.
 
 ## 🤖 Tecnologias Utilizadas
 - [ChatGPT](chatgpt.com)
