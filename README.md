@@ -38,6 +38,8 @@ O projeto resultou em um conjunto de conteúdos visuais e auditivos que não ape
 Criar algo 'natty' com IA apresenta o desafio fascinante de equilibrar inovação tecnológica com sensibilidade estética. A integração harmoniosa dessas ferramentas não apenas amplia as possibilidades criativas, mas também redefine os padrões de excelência na produção de mídia digital, oferecendo novas perspectivas sobre o que é esteticamente belo e significativo.
 ```
 
+Link para acessar o video/podcast: https://drive.google.com/file/d/1jFqUjtpi-bla8xNMIC16EgXCOnGekv7V/view?usp=drive_link
+
 ### Exemplos e Insigths
 
 - [E-BOOK](/exemplos/E-BOOK.md)
