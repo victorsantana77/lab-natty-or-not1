@@ -1,33 +1,14 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativaseeee
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
 ## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
 
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
 ### Template
-
-
 ## 📒 Descrição
 Gostaria de compartilhar uma experiência que vejo promissora entre IAs e Seres Humanos onde a cada dia esta mais presente tornando uma ferramenta essencial.
 
 ## 🤖 Tecnologias Utilizadas
 ChatGPT 
 
-## 🧐 Processo de Criação
-# Como as IAs estão presentes no nosso dia a dia
+### 🧐 Processo de Criação
+## Como as IAs estão presentes no nosso dia a dia
 ### Texto escrito por min 
 Realmente, podemos ficar abismados com a forma como as IAs estão se infiltrando no nosso cotidiano, muitas vezes sem percebermos. Vamos descobrir como as máquinas estão dominando o mundo, sem se tornarem uma Skynet (Exterminador do Futuro) 😅.
 Podemos observar que as IAs estão implementadas de várias maneiras. Sabe aquela assistente virtual que ajuda você apenas com comandos de voz? Esse equipamento ou sistema já está presente nos celulares, desktops e até dispositivos domésticos. Um exemplo são a Alexa, Siri ou Google Assistente, que respondem perguntas, definem alarmes, tocam músicas e controlam dispositivos inteligentes na sua casa. Muito eficaz! Além disso, esses algoritmos estão presentes nas suas recomendações. Quando você acaba de assistir a um filme na Netflix ou ouvir uma música no Spotify, as IAs conseguem prever qual será o seu próximo filme ou música com base no que você gostou de assistir ou ouvir, recomendando filmes semelhantes ao anterior e músicas da mesma forma. No mesmo contexto, as redes sociais usam algoritmos idênticos, recomendando publicações de seu interesse.
