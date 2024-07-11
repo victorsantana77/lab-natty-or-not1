@@ -5,7 +5,7 @@
 Gostaria de compartilhar uma experiência que vejo promissora entre IAs e Seres Humanos onde a cada dia esta mais presente tornando uma ferramenta essencial.
 
 ## 🤖 Tecnologias Utilizadas
-ChatGPT = Criador de texto
+ChatGPT = Criador de texto em linguagem natural.
 
 
 ### 🧐 Processo de Criação
