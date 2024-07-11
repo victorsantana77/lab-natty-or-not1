@@ -5,7 +5,8 @@
 Gostaria de compartilhar uma experiência que vejo promissora entre IAs e Seres Humanos onde a cada dia esta mais presente tornando uma ferramenta essencial.
 
 ## 🤖 Tecnologias Utilizadas
-ChatGPT 
+ChatGPT = Criador de texto
+
 
 ### 🧐 Processo de Criação
 ## Como as IAs estão presentes no nosso dia a dia
@@ -15,7 +16,7 @@ Podemos observar que as IAs estão implementadas de várias maneiras. Sabe aquel
 Até o momento, podemos imaginar que as IAs são usadas apenas para nos entreter. Porém, você está muito enganado. Na saúde, transporte, segurança, finanças e até na educação, as IAs estão favorecendo a humanidade. As IAs têm a capacidade de identificar doenças no estágio inicial, possibilitando um tratamento mais eficiente desde o início. No transporte, elas nos ajudam a encontrar melhores rotas para chegar a certos destinos, avisando sobre possíveis engarrafamentos ou acidentes. Aplicativos de navegação monitoram possíveis locais de enchentes quando começa a chover, avisando aos usuários sobre áreas inundadas e evitando a perda de seus bens, tudo para manter a sua segurança.
 Então, poderíamos passar o dia todo falando sobre como as IAs estão presentes no nosso dia a dia.
 
-### Texto escrito pela Ia tornando mais profissional
+### Texto escrito pela IA tornando mais profissional
 
 A Presença das IAs no Nosso Dia a Dia
 É impressionante como as IAs (Inteligências Artificiais) estão cada vez mais integradas ao nosso cotidiano, muitas vezes sem que percebamos. Vamos explorar como essas máquinas estão moldando o mundo, mas sem o receio de se tornarem uma Skynet, como no filme "O Exterminador do Futuro" 😅.
@@ -34,15 +35,3 @@ O resultado foi sensacional tinha escrito um texto de como as Ias estão present
 
 ## 💭 Reflexão (Opcional)
 vejo que muito expressivos oque queremos refletir, com isso impactamos ainda mais pessoas, vejo que IAs sempre vai ser necessário para humanidade e um futuro ainda mais produtivo, ágil e eficiente.
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
