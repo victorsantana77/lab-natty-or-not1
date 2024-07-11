@@ -31,7 +31,7 @@ Poderíamos passar o dia todo discutindo como as IAs estão presentes no nosso d
 
 
 ## 🚀 Resultados
-O resultado foi sensacional tinha escrito um texto de como as Ias estão presente no dia a dia, porém a escrita não estava tão formal, queria melhorar ainda mais o meu texto usando o ChatGPT mandei um prompt escrito: Chat eu tenho um texto que eu escrevi com minhas próprias palavras. Poderia transformar ele mais profissional, isso mostrou um resultado muito mais direto e intuitivo.
+O resultado foi sensacional tinha escrito um texto de como as IAs estão presente no dia a dia, porém a escrita não estava tão formal, queria melhorar ainda mais o meu texto usando o ChatGPT mandei um prompt escrito: Chat eu tenho um texto que eu escrevi com minhas próprias palavras. Poderia transformar ele mais profissional, isso mostrou um resultado muito mais direto e intuitivo.
 
 ## 💭 Reflexão (Opcional)
 vejo que muito expressivos oque queremos refletir, com isso impactamos ainda mais pessoas, vejo que IAs sempre vai ser necessário para humanidade e um futuro ainda mais produtivo, ágil e eficiente.
